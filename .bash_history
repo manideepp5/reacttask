@@ -34,3 +34,25 @@ ls
 git status
 git commit -m 'file2'
 git push
+history
+git status
+git clone https://github.com/manideepp5/reacttask.git
+ls
+touch file2.js
+ls
+cat file2.js 
+cat >file7.js
+ls
+cat >file8.js
+cat >file9.js
+cat >file10.js
+git add .
+git status 
+git commit -m 'files'
+git push
+git push --set-upstream origin main
+git pull
+git push --set-upstream origin main
+git pull
+git branch
+git commit --amend --reset-author
